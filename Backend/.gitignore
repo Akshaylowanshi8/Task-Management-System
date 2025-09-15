@@ -1,0 +1,29 @@
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+
+.env
+.env.*.local
+
+logs
+*.log
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+out/
+coverage/
+tmp/
+temp/
